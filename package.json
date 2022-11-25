@@ -1,0 +1,25 @@
+{
+  "name": "runner",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "express": "latest",
+    "prompt-sync": "^4.2.0",
+    "puppeteer": "latest",
+    "timers-promises": "^1.0.1"
+  },
+  "devDependencies": {
+    "@types/node": "^18.7.18"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": "16.x"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
